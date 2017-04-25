@@ -1,0 +1,17 @@
+p{
+	color:yellow;
+	font-size:20px; 
+}
+h6{
+	color:pinko	
+	opacity:20%;  
+}
+p.c1{
+	color:green;
+	font-size:10px;
+}
+div.coloor{
+		background-color:green; 
+
+
+}
