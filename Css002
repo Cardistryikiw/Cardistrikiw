@@ -1,0 +1,24 @@
+
+.Enc{
+position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 80px;
+  z-index: -1;
+  background-color: #1a3300;
+  
+  text-align: left;
+  text-transform: uppercase;
+  color:#ffcc33;
+
+}
+.Logo{
+	margin-top: 0px;
+	margin-left: 15px;
+	border-right: 3px solid black;
+	width: 18%;
+	height: 70px;
+
+}
