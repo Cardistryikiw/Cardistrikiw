@@ -1,22 +1,16 @@
 <!DOCTYPE html>
 <html>
+
 <head>
- <link rel="stylesheet" type="text/css" href="style.css">
-	<title>Yuri no sabe contar hasta -10</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<div class="coloor"> 
-
-
+	<div class="Enc">
+	<a href="gato.html"> 
+	<h1 class="Logo" >Monestry</h1></a>
 </div>
-<P>tony es un pe</P>
-
-<P>.          lo</P>
-<P>.          tu </P>
-<P>.          do</P>
-<p class="c1">Camila tampoco.</p>
-<h6>NO MENTIRAA</h6>
-
 </body>
+
+
 
 </html>
