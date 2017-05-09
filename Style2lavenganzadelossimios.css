@@ -1,11 +1,36 @@
 html{
-	background-image: url("BORDO.png");
+	background-image: url("http://www.aparici.com/Despiece/13%20Cersaie/AREA/Miniatura/AREA%20BLANCO%20ORNATO%20550.jpg");
 }
 .Logo{
 	font-size: 80px;
 	font-family: sans-serif;
 
 }
-.Dios{
-		background-color:white; 
+
+header{
+
+background-color: grey;
+position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   z-index: 9999;
+   height: 70px;
+
 }
+
+footer{
+background-color: grey;
+
+   
+   left: 0;
+   right: 0;
+    height: 70px;
+     
+
+}
+.p-footer{
+text-align: center;
+top:50px;
+}
+
